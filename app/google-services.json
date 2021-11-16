@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080552625086",
+    "firebase_url": "https://amessenger-ec1d6.firebaseio.com",
+    "project_id": "amessenger-ec1d6",
+    "storage_bucket": "amessenger-ec1d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080552625086:android:3df438e8e9dddfc8",
+        "android_client_info": {
+          "package_name": "com.piford.amessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080552625086-gkvorn5r9in8fc7b6gashpequfvtvmon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.piford.amessenger",
+            "certificate_hash": "065c9d7a6dee3fb8c0d28b6745940238a4a85b3a"
+          }
+        },
+        {
+          "client_id": "1080552625086-90r2hjtp10tdgujpeartcufr6gpeq86i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoWgTvT_SuYt7uiWztUDRuda9QRC468dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080552625086-90r2hjtp10tdgujpeartcufr6gpeq86i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
